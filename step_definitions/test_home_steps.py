@@ -3,7 +3,7 @@ from pytest_bdd import scenarios, given, when, then, parsers
 from pages.homepage import HomePage
 from utils.config_reader import read_config
 
-scenarios('../features/pagination_validation.feature')
+scenarios('../features/')
 config = read_config()
 
 
