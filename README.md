@@ -5,7 +5,7 @@
 
 ## 1. Clone the Repository
 
-git clone https://github.com/your-org/movie-filter-automation.git
+git clone [https://github.com/your-org/movie-filter-automation.git](https://github.com/karthikravi03/rr-qaautomation-assignment.git)
 cd movie-filter-automation
 
 ## 2. Create Virtual Environment
@@ -42,7 +42,7 @@ HTML Publisher (for custom reports)
 Jenkinsfile or Freestyle Steps:
 
 ### Clone repository
-git clone https://your-repo-url.git
+git clone [https://your-repo-url.git](https://github.com/karthikravi03/rr-qaautomation-assignment.git)
 
 ### Setup virtual environment
 python3 -m venv venv
