@@ -27,7 +27,7 @@ pytest -v -s --html=Reports/report.html --self-contained-html
 * Python 3.9+
 * Selenium
 * Pytest
-* Allure / HTML Reports (Optional)
+* HTML Reports
 * Logging
 
 # 🧩 CI/CD Integration with Jenkins
